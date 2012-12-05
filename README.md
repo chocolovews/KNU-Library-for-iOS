@@ -1,6 +1,12 @@
 knu_library_for_ios
 ===================
 
-KNU Library for iOS App
+KNU Library for iOS (App)
 
-old version source
+if you want additional help for this,
+
+contact kwosu87@icloud.com,
+
+who is the team leader of this project.
+
+thank you.
