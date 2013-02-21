@@ -1,12 +1,7 @@
-knu_library_for_ios
-===================
+KNU Library for iOS
+This is a repository of 'KNU Library for iOS'.  
+If you want additional help for this project,   
+please contact kwosu87@icloud.com who is a project manager of this.   
+Thank you.
 
-KNU Library for iOS (App)
-
-if you want additional help for this,
-
-contact kwosu87@icloud.com,
-
-who is the team leader of this project.
-
-thank you.
+Wooseong Kim
